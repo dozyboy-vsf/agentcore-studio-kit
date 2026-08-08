@@ -1,0 +1,8 @@
+repos:
+  - repo: local
+    hooks:
+      - id: nda-denylist
+        name: NDA denylist (mentor/rubric/answer-key files)
+        entry: nda-denylist.sh
+        language: script
+        pass_filenames: false
