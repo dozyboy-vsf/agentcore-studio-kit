@@ -1,0 +1,24 @@
+[submodule "apps/studio"]
+	path = apps/studio
+	url = https://github.com/dozyboy-vsf/agentcore-studio-app.git
+[submodule "apps/web"]
+	path = apps/web
+	url = https://github.com/dozyboy-vsf/agentcore-studio-web.git
+[submodule "packages/workbench"]
+	path = packages/workbench
+	url = https://github.com/dozyboy-vsf/agentcore-studio-workbench.git
+[submodule "packages/contracts"]
+	path = packages/contracts
+	url = https://github.com/dozyboy-vsf/agentcore-studio-contracts.git
+[submodule "packages/engine"]
+	path = packages/engine
+	url = https://github.com/dozyboy-vsf/agentcore-studio-engine.git
+[submodule "packages/evalhub"]
+	path = packages/evalhub
+	url = https://github.com/dozyboy-vsf/agentcore-studio-evalhub.git
+[submodule "packages/kb"]
+	path = packages/kb
+	url = https://github.com/dozyboy-vsf/agentcore-studio-kb.git
+[submodule "docs/reports"]
+	path = docs/reports
+	url = https://github.com/dozyboy-vsf/agentcore-report.git
